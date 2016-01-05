@@ -12,7 +12,7 @@ For more informations about tourbillon please visit the [project page](http://ww
 # Documentation
 
 You can browse the tourbillon-redis documentation online, it is hosted on Read The Docs.
-The documentation of the latest version of tourbillon-log can be found [here](http://tourbillon-lredis.readthedocs.org/en/latest/).
+The documentation of the latest version of tourbillon-redis can be found [here](http://tourbillon-redis.readthedocs.org/en/latest/).
 
 
 # Contributing
