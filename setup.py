@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 setup(
     name='tourbillon-redis',
     description='A tourbillon plugin for collecting metrics from Redis.',
-    version='0.4.1',
+    version='0.4.2',
     packages=find_packages(),
     zip_safe=False,
     install_requires=['redis==2.10.5'],
