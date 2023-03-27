@@ -5,7 +5,7 @@ setup(
     version='0.4.2',
     packages=find_packages(),
     zip_safe=False,
-    install_requires=['redis==2.10.5'],
+    install_requires=['redis==4.5.3'],
     namespace_packages=['tourbillon'],
     author='The Tourbillon Team',
     author_email='tourbillonpy@gmail.com',
